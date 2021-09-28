@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+I'm Prithvi Shahani, a CS Student at Tufts University
+
 [![Prithvi's GitHub stats](https://github-readme-stats-victeldo.vercel.app/api?username=Victeldo&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-victeldo.vercel.app/api/top-langs/?username=Victeldo&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
